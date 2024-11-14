@@ -1,0 +1,5 @@
+/Geodata-Files
+*.Rproj
+.Rproj.user
+.RData
+.Rhistory
