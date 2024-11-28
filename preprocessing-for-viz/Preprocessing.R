@@ -12,3 +12,10 @@ cities <- cities %>%
 
 city_csa <- csa %>%
   left_join(cities)
+
+write_csv(city_csa, "preprocessing-for-viz/city_csa.csv")
+
+city_csa <- city_csa %>% geocode(city = city_name, method = "osm")
+
+# TODO for each valid city add a row that is a link to all other cities
+# TODO calculate the distance between each city.
