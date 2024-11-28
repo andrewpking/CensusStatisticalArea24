@@ -1,0 +1,183 @@
+csafp,csa_name,CSA_Pop,city_name,City_Pop
+101,"Abilene-Sweetwater, TX",195897,Abilene,125182
+104,"Albany-Schenectady, NY",1192181,NA,NA
+105,"Albuquerque-Santa Fe-Los Alamos, NM",1168363,Las Vegas,641903
+106,"Allentown-Bethlehem-East Stroudsburg, PA-NJ",1039608,Fullerton,143617
+107,"Altoona-Huntingdon, PA",163787,NA,NA
+108,"Amarillo-Borger, TX",292428,Amarillo,200393
+118,"Appleton-Oshkosh-Neenah, WI",418168,NA,NA
+120,"Asheville-Waynesville-Brevard, NC",513720,NA,NA
+122,"Atlanta--Athens-Clarke County--Sandy Springs, GA-AL",7221137,Dallas,1304379
+132,"Baton Rouge-Hammond, LA",1011725,Baton Rouge,227470
+142,"Birmingham-Cullman-Talladega, AL",1367706,Birmingham,200733
+144,"Bloomington-Bedford, IN",205958,NA,NA
+145,"Bloomington-Pontiac, IL",205761,NA,NA
+146,"Bloomsburg-Berwick-Sunbury, PA",255178,NA,NA
+147,"Boise City-Mountain Home-Ontario, ID-OR",913704,Boise City,235684
+148,"Boston-Worcester-Providence, MA-RI-NH",8345067,Boston,675647
+150,"Bowling Green-Glasgow-Franklin, KY",264525,NA,NA
+152,"Brookings-Crescent City, OR-CA",49885,NA,NA
+154,"Brownsville-Harlingen-Raymondville, TX",446747,Brownsville,186738
+160,"Buffalo-Cheektowaga-Olean, NY",1231204,Buffalo,278349
+161,"Burlington-Fort Madison, IA-IL",76906,NA,NA
+162,"Burlington-South Burlington-Barre, VT",288084,NA,NA
+163,"Cape Coral-Fort Myers-Naples, FL",1295002,Cape Coral,194016
+164,"Cape Girardeau-Sikeston, MO-IL",147934,Jackson,153701
+166,"Carbondale-Marion-Herrin, IL",118847,NA,NA
+168,"Cedar Rapids-Iowa City, IA",455756,Cedar Rapids,137710
+169,"Champaign-Urbana-Danville, IL",307260,NA,NA
+170,"Charleston-Huntington-Ashland, WV-OH-KY",643394,Charleston,150227
+172,"Charlotte-Concord, NC-SC",3387115,Charlotte,874579
+174,"Chattanooga-Cleveland-Dalton, TN-GA-AL",1003363,Cleveland,372624
+176,"Chicago-Naperville, IL-IN-WI",9794558,Chicago,2746388
+178,"Cincinnati-Wilmington, OH-KY-IN",2313417,Cincinnati,309317
+184,"Cleveland-Akron-Canton, OH",3732803,Aurora,386261
+190,"Columbia-Jefferson City-Moberly, MO",415747,Columbia,136632
+192,"Columbia-Sumter-Orangeburg, SC",1084112,Columbia,136632
+194,"Columbus-Auburn-Opelika, GA-AL",566030,Columbus,905748
+198,"Columbus-Marion-Zanesville, OH",2646917,Columbus,905748
+204,"Corpus Christi-Kingsville-Alice, TX",523902,Portland,652503
+206,"Dallas-Fort Worth, TX-OK",8654750,Dallas,1304379
+209,"Davenport-Moline, IA-IL",467817,Davenport,101724
+212,"Dayton-Springfield-Kettering, OH",1086998,Riverside,314998
+216,"Denver-Aurora-Greeley, CO",3691404,Denver,715522
+218,"Des Moines-West Des Moines-Ames, IA",917964,Des Moines,214133
+220,"Detroit-Warren-Ann Arbor, MI",5361927,Detroit,639111
+221,"Dixon-Sterling, IL",88152,NA,NA
+222,"Dothan-Enterprise-Ozark, AL",258863,Enterprise,221831
+228,"Duluth-Grand Rapids, MN-WI",326968,Grand Rapids,198917
+232,"Eau Claire-Menomonie, WI",220667,NA,NA
+233,"Edwards-Rifle, CO",133728,NA,NA
+236,"Elmira-Corning, NY",173487,NA,NA
+238,"El Paso-Las Cruces, TX-NM",1098541,El Paso,678815
+240,"Erie-Meadville, PA",349572,NA,NA
+241,"Evansville-Henderson, IN-KY",327562,Henderson,317610
+242,"Fairmont-Clarksburg, WV",144514,NA,NA
+244,"Fargo-Wahpeton, ND-MN",285484,Fargo,125990
+246,"Fayetteville-Lumberton-Pinehurst, NC",693299,Fayetteville,208501
+248,"Findlay-Tiffin, OH",129231,NA,NA
+250,"Florence-Muscle Shoals-Russellville, AL",186977,NA,NA
+258,"Fort Wayne-Huntington-Auburn, IN",657456,Fort Wayne,263886
+260,"Fresno-Hanford-Corcoran, CA",1332702,Fresno,542107
+264,"Gainesville-Lake City, FL",425189,Gainesville,141085
+266,"Grand Rapids-Wyoming, MI",1502552,Grand Rapids,198917
+267,"Green Bay-Shawano, WI",377217,Bellevue,151854
+268,"Greensboro--Winston-Salem--High Point, NC",1736099,Greensboro,299035
+273,"Greenville-Spartanburg-Anderson, SC",1590636,NA,NA
+274,"Greenville-Washington, NC",219600,NA,NA
+276,"Harrisburg-York-Lebanon, PA",1321695,NA,NA
+277,"Harrisonburg-Staunton-Stuarts Draft, VA",264994,NA,NA
+279,"Hattiesburg-Laurel, MS",238003,NA,NA
+284,"Hot Springs-Malvern, AR",133042,NA,NA
+288,"Houston-Pasadena, TX",7706626,Houston,2304580
+290,"Huntsville-Decatur-Albertville, AL-TN",895383,Madison,269840
+292,"Idaho Falls-Rexburg-Blackfoot, ID",287460,NA,NA
+294,"Indianapolis-Carmel-Muncie, IN",2651953,Columbus,905748
+296,"Ithaca-Cortland, NY",149310,NA,NA
+298,"Jackson-Vicksburg-Brookhaven, MS",687257,Madison,269840
+300,"Jacksonville-Kingsland-Palatka, FL-GA",1847313,Jacksonville,949611
+304,"Johnson City-Kingsport-Bristol, TN-VA",598800,NA,NA
+306,"Johnstown-Somerset, PA",202865,NA,NA
+308,"Jonesboro-Paragould, AR",183133,NA,NA
+309,"Joplin-Miami, MO-OK-KS",235074,Miami,442241
+310,"Kalamazoo-Battle Creek-Portage, MI",456459,NA,NA
+312,"Kansas City-Overland Park-Kansas City, MO-KS",2557474,Kansas City,508090
+312,"Kansas City-Overland Park-Kansas City, MO-KS",2557474,Kansas City,508090
+313,"Keene-Brattleboro, NH-VT",123669,NA,NA
+314,"Kennewick-Richland-Walla Walla, WA",375821,NA,NA
+315,"Knoxville-Morristown-Sevierville, TN",1207137,Knoxville,190740
+317,"La Crosse-Onalaska-Sparta, WI-MN",216389,NA,NA
+318,"Lafayette-New Iberia-Opelousas, LA",563411,Lafayette,121374
+320,"Lafayette-West Lafayette-Frankfort, IN",284211,Lafayette,121374
+324,"Lake Charles-DeRidder, LA",276909,NA,NA
+330,"Lansing-East Lansing-Owosso, MI",541202,Lansing,112644
+332,"Las Vegas-Henderson, NV",2392293,Las Vegas,641903
+334,"Lawton-Duncan, OK",171015,NA,NA
+336,"Lexington-Fayette--Richmond--Frankfort, KY",770951,Lexington-Fayette,322570
+338,"Lima-Van Wert-Celina, OH",218031,NA,NA
+339,"Lincoln-Beatrice, NE",366021,Lincoln,291082
+340,"Little Rock-North Little Rock, AR",913536,Jacksonville,949611
+348,"Los Angeles-Long Beach, CA",18316743,Los Angeles,3898747
+350,"Louisville/Jefferson County--Elizabethtown, KY-IN",1493133,Louisville/Jefferson County metro government (balance),386884
+352,"Lubbock-Plainview, TX",396955,Lubbock,257141
+356,"Macon-Bibb County--Warner Robins, GA",436853,Macon-Bibb County,157346
+357,"Madison-Janesville-Beloit, WI",924543,Madison,269840
+359,"Mankato-New Ulm, MN",129876,NA,NA
+360,"Mansfield-Ashland-Bucyrus, OH",218783,NA,NA
+361,"Marinette-Iron Mountain, WI-MI",95715,NA,NA
+365,"McAllen-Edinburg, TX",964405,McAllen,142210
+366,"Medford-Grants Pass, OR",308589,NA,NA
+368,"Memphis-Clarksdale-Forrest City, TN-MS-AR",1377852,Memphis,633104
+370,"Miami-Port St. Lucie-Fort Lauderdale, FL",7011936,Miami,442241
+371,"Middlesborough-Corbin, KY",172880,NA,NA
+372,"Midland-Odessa-Andrews, TX",365482,Midland,132524
+376,"Milwaukee-Racine-Waukesha, WI",2036833,Milwaukee,577222
+378,"Minneapolis-St. Paul, MN-WI",4104786,Minneapolis,429954
+380,"Mobile-Daphne-Fairhope, AL",665147,Mobile,187041
+384,"Monroe-Ruston, LA",269847,NA,NA
+388,"Montgomery-Selma, AL",421645,Montgomery,200603
+393,"Moses Lake-Othello, WA",123498,NA,NA
+394,"Mount Pleasant-Alma, MI",105486,NA,NA
+396,"Myrtle Beach-Conway, SC",463209,NA,NA
+400,"Nashville-Davidson--Murfreesboro, TN",2350738,Nashville-Davidson metropolitan government (balance),689447
+404,"New Bern-Morehead City, NC",193830,NA,NA
+405,"New Haven-Hartford-Waterbury, CT",2665618,Orange,139911
+406,"New Orleans-Metairie-Slidell, LA-MS",1340591,New Orleans,383997
+408,"New York-Newark, NY-NJ-CT-PA",21859598,New York,8804190
+412,"North Port-Bradenton, FL",1152221,NA,NA
+416,"Oklahoma City-Shawnee, OK",1551717,Oklahoma City,681054
+420,"Omaha-Fremont, NE-IA",1021156,Omaha,486051
+422,"Orlando-Lakeland-Deltona, FL",4509624,Orlando,307573
+424,"Paducah-Mayfield, KY-IL",138728,NA,NA
+425,"Parkersburg-Marietta-Vienna, WV-OH",146629,NA,NA
+427,"Peoria-Canton, IL",394781,Washington,689545
+428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD",7390919,Philadelphia,1603797
+429,"Phoenix-Mesa, AZ",5124113,Phoenix,1608139
+430,"Pittsburgh-Weirton-Steubenville, PA-OH-WV",2727866,Washington,689545
+438,"Portland-Lewiston-South Portland, ME",680094,Portland,652503
+440,"Portland-Vancouver-Salem, OR-WA",3286669,Dallas,1304379
+444,"Pueblo-Cañon City, CO",219740,Pueblo,111876
+446,"Pullman-Moscow, WA-ID",89313,NA,NA
+448,"Quincy-Hannibal, IL-MO",113084,Quincy,101636
+450,"Raleigh-Durham-Cary, NC",2368947,Raleigh,467665
+452,"Rapid City-Spearfish, SD",184027,NA,NA
+454,"Redding-Red Bluff, CA",245262,NA,NA
+456,"Reno-Carson City-Gardnerville Ranchos, NV-CA",699307,Reno,264165
+458,"Richmond-Connersville, IN",89489,Richmond,226610
+462,"Rochester-Austin-Winona, MN",318856,Austin,961855
+464,"Rochester-Batavia-Seneca Falls, NY",1141965,Rochester,211328
+466,"Rockford-Freeport-Rochelle, IL",428494,Rockford,148655
+468,"Rocky Mount-Wilson-Roanoke Rapids, NC",288366,NA,NA
+472,"Sacramento-Roseville, CA",2706315,Sacramento,524943
+474,"Saginaw-Midland-Bay City, MI",374321,Midland,132524
+476,"St. Louis-St. Charles-Farmington, MO-IL",2900730,Washington,689545
+480,"Salisbury-Ocean Pines, MD",183881,NA,NA
+482,"Salt Lake City-Provo-Orem, UT-ID",2805734,Salt Lake City,199723
+484,"San Antonio-New Braunfels-Kerrville, TX",2785647,San Antonio,1434625
+488,"San Jose-San Francisco-Oakland, CA",9001024,San Jose,1013240
+496,"Savannah-Hinesville-Statesboro, GA",640193,Savannah,147780
+500,"Seattle-Tacoma, WA",4993725,Seattle,737015
+508,"Shreveport-Bossier City-Minden, LA",418533,Shreveport,187593
+512,"Sioux City-Le Mars, IA-NE-SD",170124,NA,NA
+515,"South Bend-Elkhart-Mishawaka, IN-MI",809876,South Bend,103453
+517,"Spencer-Spirit Lake, IA",34567,NA,NA
+518,"Spokane-Spokane Valley-Coeur d'Alene, WA-ID",785302,Spokane,228989
+521,"Springfield-Amherst Town-Northampton, MA",693629,Springfield,169176
+522,"Springfield-Jacksonville-Lincoln, IL",303113,Jacksonville,949611
+523,"Starkville-Columbus, MS",128388,Columbus,905748
+524,"State College-DuBois, PA",234885,NA,NA
+532,"Syracuse-Auburn, NY",727441,Syracuse,148620
+533,"Tallahassee-Bainbridge, FL-GA",421732,Tallahassee,196169
+536,"Tucson-Nogales, AZ",1112320,Tucson,542629
+538,"Tulsa-Bartlesville-Muskogee, OK",1165140,Tulsa,413066
+539,"Tupelo-Corinth, MS",166162,NA,NA
+540,"Tyler-Jacksonville, TX",297426,Jacksonville,949611
+542,"Union City-Martin, TN",63495,NA,NA
+544,"Victoria-Port Lavaca, TX",118504,NA,NA
+545,"Virginia Beach-Chesapeake, VA-NC",1866723,Virginia Beach,459470
+548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",10069592,Washington,689545
+554,"Wausau-Stevens Point-Wisconsin Rapids, WI",283575,NA,NA
+555,"Weatherford-Elk City, OK",61044,NA,NA
+556,"Wichita-Arkansas City-Winfield, KS",687096,Wichita,397532
+558,"Williamsport-Lock Haven, PA",150331,NA,NA
+566,"Youngstown-Warren-Salem, OH",526151,Salem,175535
