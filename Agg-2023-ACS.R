@@ -3,7 +3,7 @@ library(tidyverse)
 csaEst23 <- read_csv('csa-est2023-alldata.csv')
 
 csaEst <- csaEst23 %>%
-  filter(is.na(CBSA)) %>%
-  select(CSAFP = CSA, Name = NAME, Pop2020 = ESTIMATESBASE2020, Pop2021 = POPESTIMATE2021, Pop2022 = POPESTIMATE2022, Pop2023 = POPESTIMATE2023)
+  filter(LSAD == "Combined Statistical Area") %>%
+  select(CSAFP = CSA, csa_name = NAME, csa_pop = POPESTIMATE2023)
 
-write_csv(csaEst, 'CSAPopulation-20-23.csv')
+write_csv(csaEst, 'CSAPop.csv')
